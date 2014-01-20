@@ -1,0 +1,163 @@
+Petstore,,,Direct Connect Store,,,Formula,,Output
+,,,,,,,,
+Bird,Bath De-Icer,Bath De-Icer,Pet Items,Bird Bath De-Icer,,Bird/Bath De-Icer/Bath De-Icer==Pet Items/Bird Bath De-Icer,,Bird/Bath De-Icer/Bath De-Icer==Pet Items/Bird Bath De-Icer
+Bird,Cages,Accessories,Pet Items,Bird Cages,,Bird/Cages/Accessories==Pet Items/Bird Cages,,Bird/Cages/Accessories==Pet Items/Bird Cages
+Bird,House,Houses,Pet Items,Bird House,,Bird/House/Houses==Pet Items/Bird House,,Bird/House/Houses==Pet Items/Bird House
+Bird,Perches,Heated Perches,Pet Items,Bird Perches,,Bird/Perches/Heated Perches==Pet Items/Bird Perches,,Bird/Perches/Heated Perches==Pet Items/Bird Perches
+Bird,Perches,Perches,Pet Items,Bird Perches,,Bird/Perches/Perches==Pet Items/Bird Perches,,Bird/Perches/Perches==Pet Items/Bird Perches
+Cat,Beds,Designer Beds,Pet Items,Cat Beds,,Cat/Beds/Designer Beds==Pet Items/Cat Beds,,Cat/Beds/Designer Beds==Pet Items/Cat Beds
+Cat,Beds,Heated Beds,Pet Items,Cat Beds,,Cat/Beds/Heated Beds==Pet Items/Cat Beds,,Cat/Beds/Heated Beds==Pet Items/Cat Beds
+Cat,Beds,Heated Pads,Pet Items,Cat Beds,,Cat/Beds/Heated Pads==Pet Items/Cat Beds,,Cat/Beds/Heated Pads==Pet Items/Cat Beds
+Cat,Containment,Cages,Pet Items,Cat Containment,,Cat/Containment/Cages==Pet Items/Cat Containment,,Cat/Containment/Cages==Pet Items/Cat Containment
+Cat,Containment,In-Ground Fences,Pet Items,Cat Containment,,Cat/Containment/In-Ground Fences==Pet Items/Cat Containment,,Cat/Containment/In-Ground Fences==Pet Items/Cat Containment
+Cat,Containment,Spray Deterrent,Pet Items,Cat Containment,,Cat/Containment/Spray Deterrent==Pet Items/Cat Containment,,Cat/Containment/Spray Deterrent==Pet Items/Cat Containment
+Cat,Doors,Door Mounted,Pet Items,Cat Doors,,Cat/Doors/Door Mounted==Pet Items/Cat Doors,,Cat/Doors/Door Mounted==Pet Items/Cat Doors
+Cat,Doors,Wall Mounted,Pet Items,Cat Doors,,Cat/Doors/Wall Mounted==Pet Items/Cat Doors,,Cat/Doors/Wall Mounted==Pet Items/Cat Doors
+Cat,Feeding and Watering,Automatic Feeder and Watering,Pet Items,Cat Feeding & Watering,,Cat/Feeding and Watering/Automatic Feeder and Watering==Pet Items/Cat Feeding & Watering,,Cat/Feeding and Watering/Automatic Feeder and Watering==Pet Items/Cat Feeding & Watering
+Cat,Feeding and Watering,Automatic Feeding and Watering,Pet Items,Cat Feeding & Watering,,Cat/Feeding and Watering/Automatic Feeding and Watering==Pet Items/Cat Feeding & Watering,,Cat/Feeding and Watering/Automatic Feeding and Watering==Pet Items/Cat Feeding & Watering
+Cat,Feeding and Watering,Bowls,Pet Items,Cat Feeding & Watering,,Cat/Feeding and Watering/Bowls==Pet Items/Cat Feeding & Watering,,Cat/Feeding and Watering/Bowls==Pet Items/Cat Feeding & Watering
+Cat,Flea and Tick,Advantage,Pet Items,Cat Flea and Tick,,Cat/Flea and Tick/Advantage==Pet Items/Cat Flea and Tick,,Cat/Flea and Tick/Advantage==Pet Items/Cat Flea and Tick
+Cat,Flea and Tick,Frontline,Pet Items,Cat Flea and Tick,,Cat/Flea and Tick/Frontline==Pet Items/Cat Flea and Tick,,Cat/Flea and Tick/Frontline==Pet Items/Cat Flea and Tick
+Cat,Furniture,Perches,Pet Items,Cat Furniture,,Cat/Furniture/Perches==Pet Items/Cat Furniture,,Cat/Furniture/Perches==Pet Items/Cat Furniture
+Cat,Furniture,Play Houses,Pet Items,Cat Furniture,,Cat/Furniture/Play Houses==Pet Items/Cat Furniture,,Cat/Furniture/Play Houses==Pet Items/Cat Furniture
+Cat,Furniture,Scratching Post,Pet Items,Cat Furniture,,Cat/Furniture/Scratching Post==Pet Items/Cat Furniture,,Cat/Furniture/Scratching Post==Pet Items/Cat Furniture
+Cat,Furniture,Scratching Posts,Pet Items,Cat Furniture,,Cat/Furniture/Scratching Posts==Pet Items/Cat Furniture,,Cat/Furniture/Scratching Posts==Pet Items/Cat Furniture
+Cat,Grooming,Brushes,Pet Items,Cat Wellness,,Cat/Grooming/Brushes==Pet Items/Cat Wellness,,Cat/Grooming/Brushes==Pet Items/Cat Wellness
+Cat,House Breaking,Floor Cleaner,Pet Items,Cat Litter Boxes,,Cat/House Breaking/Floor Cleaner==Pet Items/Cat Litter Boxes,,Cat/House Breaking/Floor Cleaner==Pet Items/Cat Litter Boxes
+Cat,Houses,Houses,Pet Items,Cat Houses,,Cat/Houses/Houses==Pet Items/Cat Houses,,Cat/Houses/Houses==Pet Items/Cat Houses
+Cat,Litter Boxes,Accessories,Pet Items,Cat Litter Boxes,,Cat/Litter Boxes/Accessories==Pet Items/Cat Litter Boxes,,Cat/Litter Boxes/Accessories==Pet Items/Cat Litter Boxes
+Cat,Litter Boxes,Automatic Litter Boxes,Pet Items,Cat Litter Boxes,,Cat/Litter Boxes/Automatic Litter Boxes==Pet Items/Cat Litter Boxes,,Cat/Litter Boxes/Automatic Litter Boxes==Pet Items/Cat Litter Boxes
+Cat,Litter Boxes,Litter Box Covers,Pet Items,Cat Litter Boxes,,Cat/Litter Boxes/Litter Box Covers==Pet Items/Cat Litter Boxes,,Cat/Litter Boxes/Litter Box Covers==Pet Items/Cat Litter Boxes
+Cat,Litter Boxes,Litter Boxes,Pet Items,Cat Litter Boxes,,Cat/Litter Boxes/Litter Boxes==Pet Items/Cat Litter Boxes,,Cat/Litter Boxes/Litter Boxes==Pet Items/Cat Litter Boxes
+Cat,Litter Boxes,Litter Scoops,Pet Items,Cat Litter Boxes,,Cat/Litter Boxes/Litter Scoops==Pet Items/Cat Litter Boxes,,Cat/Litter Boxes/Litter Scoops==Pet Items/Cat Litter Boxes
+Cat,Pet Video Camera,Pet Video Camera,Pet Items,Cat Pet Video Camera,,Cat/Pet Video Camera/Pet Video Camera==Pet Items/Cat Pet Video Camera,,Cat/Pet Video Camera/Pet Video Camera==Pet Items/Cat Pet Video Camera
+Cat,Toys,Feeders,Pet Items,Cat Toys,,Cat/Toys/Feeders==Pet Items/Cat Toys,,Cat/Toys/Feeders==Pet Items/Cat Toys
+Cat,Toys,Interactive,Pet Items,Cat Toys,,Cat/Toys/Interactive==Pet Items/Cat Toys,,Cat/Toys/Interactive==Pet Items/Cat Toys
+Cat,Toys,Interactive Toys,Pet Items,Cat Toys,,Cat/Toys/Interactive Toys==Pet Items/Cat Toys,,Cat/Toys/Interactive Toys==Pet Items/Cat Toys
+Cat,Travel,Strollers,Pet Items,Cat Travel,,Cat/Travel/Strollers==Pet Items/Cat Travel,,Cat/Travel/Strollers==Pet Items/Cat Travel
+Cat,Treats,Catnip,Pet Items,Cat Treats,,Cat/Treats/Catnip==Pet Items/Cat Treats,,Cat/Treats/Catnip==Pet Items/Cat Treats
+Cat,Waste Management,Litter Kwitter,Pet Items,Cat Litter Boxes,,Cat/Waste Management/Litter Kwitter==Pet Items/Cat Litter Boxes,,Cat/Waste Management/Litter Kwitter==Pet Items/Cat Litter Boxes
+Dog,Agility Training,Agility Training,Pet Items,Dog Agility Training,,Dog/Agility Training/Agility Training==Pet Items/Dog Agility Training,,Dog/Agility Training/Agility Training==Pet Items/Dog Agility Training
+Dog,Bark Control,Accessories,Pet Items,Dog Bark Control,,Dog/Bark Control/Accessories==Pet Items/Dog Bark Control,,Dog/Bark Control/Accessories==Pet Items/Dog Bark Control
+Dog,Bark Control,Spray Bark Control,Pet Items,Dog Bark Control,,Dog/Bark Control/Spray Bark Control==Pet Items/Dog Bark Control,,Dog/Bark Control/Spray Bark Control==Pet Items/Dog Bark Control
+Dog,Bark Control,Static Bark Control,Pet Items,Dog Bark Control,,Dog/Bark Control/Static Bark Control==Pet Items/Dog Bark Control,,Dog/Bark Control/Static Bark Control==Pet Items/Dog Bark Control
+Dog,Bark Control,Ultrasonic Bark Control,Pet Items,Dog Bark Control,,Dog/Bark Control/Ultrasonic Bark Control==Pet Items/Dog Bark Control,,Dog/Bark Control/Ultrasonic Bark Control==Pet Items/Dog Bark Control
+Dog,Beds,Beds,Pet Items,Dog Beds,,Dog/Beds/Beds==Pet Items/Dog Beds,,Dog/Beds/Beds==Pet Items/Dog Beds
+Dog,Beds,Bolster Beds,Pet Items,Dog Beds,,Dog/Beds/Bolster Beds==Pet Items/Dog Beds,,Dog/Beds/Bolster Beds==Pet Items/Dog Beds
+Dog,Beds,Cooling Beds,Pet Items,Dog Beds,,Dog/Beds/Cooling Beds==Pet Items/Dog Beds,,Dog/Beds/Cooling Beds==Pet Items/Dog Beds
+Dog,Beds,Heated Beds,Pet Items,Dog Beds,,Dog/Beds/Heated Beds==Pet Items/Dog Beds,,Dog/Beds/Heated Beds==Pet Items/Dog Beds
+Dog,Beds,Heated Pads,Pet Items,Dog Beds,,Dog/Beds/Heated Pads==Pet Items/Dog Beds,,Dog/Beds/Heated Pads==Pet Items/Dog Beds
+Dog,Beds,Orthopedic Beds,Pet Items,Dog Beds,,Dog/Beds/Orthopedic Beds==Pet Items/Dog Beds,,Dog/Beds/Orthopedic Beds==Pet Items/Dog Beds
+Dog,Beds,Traditional Beds,Pet Items,Dog Beds,,Dog/Beds/Traditional Beds==Pet Items/Dog Beds,,Dog/Beds/Traditional Beds==Pet Items/Dog Beds
+Dog,Collars and Leashes,Collars,Pet Items,Dog Collars and Leashes,,Dog/Collars and Leashes/Collars==Pet Items/Dog Collars and Leashes,,Dog/Collars and Leashes/Collars==Pet Items/Dog Collars and Leashes
+Dog,Collars and Leashes,Harnesses,Pet Items,Dog Collars and Leashes,,Dog/Collars and Leashes/Harnesses==Pet Items/Dog Collars and Leashes,,Dog/Collars and Leashes/Harnesses==Pet Items/Dog Collars and Leashes
+Dog,Collars and Leashes,Leashes,Pet Items,Dog Collars and Leashes,,Dog/Collars and Leashes/Leashes==Pet Items/Dog Collars and Leashes,,Dog/Collars and Leashes/Leashes==Pet Items/Dog Collars and Leashes
+Dog,Collars and Leashes,Tie Out Stakes,Pet Items,Dog Collars and Leashes,,Dog/Collars and Leashes/Tie Out Stakes==Pet Items/Dog Collars and Leashes,,Dog/Collars and Leashes/Tie Out Stakes==Pet Items/Dog Collars and Leashes
+Dog,Collars and Leashes,Tie-Out Stakes,Pet Items,Dog Collars and Leashes,,Dog/Collars and Leashes/Tie-Out Stakes==Pet Items/Dog Collars and Leashes,,Dog/Collars and Leashes/Tie-Out Stakes==Pet Items/Dog Collars and Leashes
+Dog,Containment,In-Ground Fences,Pet Items,Dog Containment,,Dog/Containment/In-Ground Fences==Pet Items/Dog Containment,,Dog/Containment/In-Ground Fences==Pet Items/Dog Containment
+Dog,Containment System,Accessories,Pet Items,Dog Containment,,Dog/Containment System/Accessories==Pet Items/Dog Containment,,Dog/Containment System/Accessories==Pet Items/Dog Containment
+Dog,Containment System,Wireless Fence,Pet Items,Dog Containment,,Dog/Containment System/Wireless Fence==Pet Items/Dog Containment,,Dog/Containment System/Wireless Fence==Pet Items/Dog Containment
+Dog,Containment Systems,Accessories,Pet Items,Dog Containment,,Dog/Containment Systems/Accessories==Pet Items/Dog Containment,,Dog/Containment Systems/Accessories==Pet Items/Dog Containment
+Dog,Containment Systems,Indoor Containment,Pet Items,Dog Containment,,Dog/Containment Systems/Indoor Containment==Pet Items/Dog Containment,,Dog/Containment Systems/Indoor Containment==Pet Items/Dog Containment
+Dog,Containment Systems,In-Ground Fences,Pet Items,Dog Containment,,Dog/Containment Systems/In-Ground Fences==Pet Items/Dog Containment,,Dog/Containment Systems/In-Ground Fences==Pet Items/Dog Containment
+Dog,Containment Systems,Wireless Fences,Pet Items,Dog Containment,,Dog/Containment Systems/Wireless Fences==Pet Items/Dog Containment,,Dog/Containment Systems/Wireless Fences==Pet Items/Dog Containment
+Dog,Crates,Accessories,Pet Items,Dog Crates,,Dog/Crates/Accessories==Pet Items/Dog Crates,,Dog/Crates/Accessories==Pet Items/Dog Crates
+Dog,Crates,Beds,Pet Items,Dog Crates,,Dog/Crates/Beds==Pet Items/Dog Crates,,Dog/Crates/Beds==Pet Items/Dog Crates
+Dog,Crates,Exercise Pens,Pet Items,Dog Crates,,Dog/Crates/Exercise Pens==Pet Items/Dog Crates,,Dog/Crates/Exercise Pens==Pet Items/Dog Crates
+Dog,Crates,Puppy Play Pens,Pet Items,Dog Crates,,Dog/Crates/Puppy Play Pens==Pet Items/Dog Crates,,Dog/Crates/Puppy Play Pens==Pet Items/Dog Crates
+Dog,Crates,Soft - Cloth,Pet Items,Dog Crates,,Dog/Crates/Soft - Cloth==Pet Items/Dog Crates,,Dog/Crates/Soft - Cloth==Pet Items/Dog Crates
+Dog,Crates,Wicker,Pet Items,Dog Crates,,Dog/Crates/Wicker==Pet Items/Dog Crates,,Dog/Crates/Wicker==Pet Items/Dog Crates
+Dog,Crates,Wire,Pet Items,Dog Crates,,Dog/Crates/Wire==Pet Items/Dog Crates,,Dog/Crates/Wire==Pet Items/Dog Crates
+Dog,Crates,Wood / Designer,Pet Items,Dog Crates,,Dog/Crates/Wood / Designer==Pet Items/Dog Crates,,Dog/Crates/Wood / Designer==Pet Items/Dog Crates
+Dog,DNA Test,DNA Test,Pet Items,Dog DNA Test,,Dog/DNA Test/DNA Test==Pet Items/Dog DNA Test,,Dog/DNA Test/DNA Test==Pet Items/Dog DNA Test
+Dog,Doors,Door Entry,Pet Items,Dog Doors,,Dog/Doors/Door Entry==Pet Items/Dog Doors,,Dog/Doors/Door Entry==Pet Items/Dog Doors
+Dog,Doors,Patio Door Panels,Pet Items,Dog Doors,,Dog/Doors/Patio Door Panels==Pet Items/Dog Doors,,Dog/Doors/Patio Door Panels==Pet Items/Dog Doors
+Dog,Doors,Replacement Flap,Pet Items,Dog Doors,,Dog/Doors/Replacement Flap==Pet Items/Dog Doors,,Dog/Doors/Replacement Flap==Pet Items/Dog Doors
+Dog,Doors,Wall Entry,Pet Items,Dog Doors,,Dog/Doors/Wall Entry==Pet Items/Dog Doors,,Dog/Doors/Wall Entry==Pet Items/Dog Doors
+Dog,Feeding and Watering,Automatic Feeder and Watering,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Automatic Feeder and Watering==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Automatic Feeder and Watering==Pet Items/Dog Feeding & Watering
+Dog,Feeding and Watering,Automatic Feeding and Watering,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Automatic Feeding and Watering==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Automatic Feeding and Watering==Pet Items/Dog Feeding & Watering
+Dog,Feeding and Watering,Bowls,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Bowls==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Bowls==Pet Items/Dog Feeding & Watering
+Dog,Feeding and Watering,Elevated Feeding,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Elevated Feeding==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Elevated Feeding==Pet Items/Dog Feeding & Watering
+Dog,Feeding and Watering,Food Storage,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Food Storage==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Food Storage==Pet Items/Dog Feeding & Watering
+Dog,Feeding and Watering,Heated Outdoor Bowls,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Heated Outdoor Bowls==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Heated Outdoor Bowls==Pet Items/Dog Feeding & Watering
+Dog,Feeding and Watering,Heated Outdoor Watering,Pet Items,Dog Feeding & Watering,,Dog/Feeding and Watering/Heated Outdoor Watering==Pet Items/Dog Feeding & Watering,,Dog/Feeding and Watering/Heated Outdoor Watering==Pet Items/Dog Feeding & Watering
+Dog,Flea and Tick,Advantage,Pet Items,Dog Flea and Tick,,Dog/Flea and Tick/Advantage==Pet Items/Dog Flea and Tick,,Dog/Flea and Tick/Advantage==Pet Items/Dog Flea and Tick
+Dog,Flea and Tick,Advantix,Pet Items,Dog Flea and Tick,,Dog/Flea and Tick/Advantix==Pet Items/Dog Flea and Tick,,Dog/Flea and Tick/Advantix==Pet Items/Dog Flea and Tick
+Dog,Flea and Tick,Frontline,Pet Items,Dog Flea and Tick,,Dog/Flea and Tick/Frontline==Pet Items/Dog Flea and Tick,,Dog/Flea and Tick/Frontline==Pet Items/Dog Flea and Tick
+Dog,Furniture,Covers,Pet Items,Dog Furniture,,Dog/Furniture/Covers==Pet Items/Dog Furniture,,Dog/Furniture/Covers==Pet Items/Dog Furniture
+Dog,Furniture,Ramps,Pet Items,Dog Furniture,,Dog/Furniture/Ramps==Pet Items/Dog Furniture,,Dog/Furniture/Ramps==Pet Items/Dog Furniture
+Dog,Furniture,Steps,Pet Items,Dog Furniture,,Dog/Furniture/Steps==Pet Items/Dog Furniture,,Dog/Furniture/Steps==Pet Items/Dog Furniture
+Dog,Gates,Free Standing,Pet Items,Dog Gates,,Dog/Gates/Free Standing==Pet Items/Dog Gates,,Dog/Gates/Free Standing==Pet Items/Dog Gates
+Dog,Gates,Pressue Mounted,Pet Items,Dog Gates,,Dog/Gates/Pressue Mounted==Pet Items/Dog Gates,,Dog/Gates/Pressue Mounted==Pet Items/Dog Gates
+Dog,Gates,Pressure Mounted,Pet Items,Dog Gates,,Dog/Gates/Pressure Mounted==Pet Items/Dog Gates,,Dog/Gates/Pressure Mounted==Pet Items/Dog Gates
+Dog,Gates,Wall Mounted,Pet Items,Dog Gates,,Dog/Gates/Wall Mounted==Pet Items/Dog Gates,,Dog/Gates/Wall Mounted==Pet Items/Dog Gates
+Dog,GPS Tracking,Accessories,Pet Items,Dog GPS Tracking,,Dog/GPS Tracking/Accessories==Pet Items/Dog GPS Tracking,,Dog/GPS Tracking/Accessories==Pet Items/Dog GPS Tracking
+Dog,GPS Tracking,GPS Tracking,Pet Items,Dog GPS Tracking,,Dog/GPS Tracking/GPS Tracking==Pet Items/Dog GPS Tracking,,Dog/GPS Tracking/GPS Tracking==Pet Items/Dog GPS Tracking
+Dog,Grooming,Bathing,Pet Items,Dog Grooming,,Dog/Grooming/Bathing==Pet Items/Dog Grooming,,Dog/Grooming/Bathing==Pet Items/Dog Grooming
+Dog,Grooming,Brushes,Pet Items,Dog Grooming,,Dog/Grooming/Brushes==Pet Items/Dog Grooming,,Dog/Grooming/Brushes==Pet Items/Dog Grooming
+Dog,Grooming,Clippers,Pet Items,Dog Grooming,,Dog/Grooming/Clippers==Pet Items/Dog Grooming,,Dog/Grooming/Clippers==Pet Items/Dog Grooming
+Dog,Grooming,Shampoo,Pet Items,Dog Grooming,,Dog/Grooming/Shampoo==Pet Items/Dog Grooming,,Dog/Grooming/Shampoo==Pet Items/Dog Grooming
+Dog,Grooming,Skin and Coat Care,Pet Items,Dog Grooming,,Dog/Grooming/Skin and Coat Care==Pet Items/Dog Grooming,,Dog/Grooming/Skin and Coat Care==Pet Items/Dog Grooming
+Dog,Grooming,Tables,Pet Items,Dog Grooming,,Dog/Grooming/Tables==Pet Items/Dog Grooming,,Dog/Grooming/Tables==Pet Items/Dog Grooming
+Dog,House,Houses,Pet Items,Dog Houses,,Dog/House/Houses==Pet Items/Dog Houses,,Dog/House/Houses==Pet Items/Dog Houses
+Dog,House Breaking,Floor Cleaner,Pet Items,Dog House Breaking,,Dog/House Breaking/Floor Cleaner==Pet Items/Dog House Breaking,,Dog/House Breaking/Floor Cleaner==Pet Items/Dog House Breaking
+Dog,House Breaking,Indoor and Outdoor Repellent,Pet Items,Dog House Breaking,,Dog/House Breaking/Indoor and Outdoor Repellent==Pet Items/Dog House Breaking,,Dog/House Breaking/Indoor and Outdoor Repellent==Pet Items/Dog House Breaking
+Dog,House Breaking,Odor Eliminator,Pet Items,Dog House Breaking,,Dog/House Breaking/Odor Eliminator==Pet Items/Dog House Breaking,,Dog/House Breaking/Odor Eliminator==Pet Items/Dog House Breaking
+Dog,House Breaking,Training Aid Spray,Pet Items,Dog House Breaking,,Dog/House Breaking/Training Aid Spray==Pet Items/Dog House Breaking,,Dog/House Breaking/Training Aid Spray==Pet Items/Dog House Breaking
+Dog,House Breaking,Training Pads,Pet Items,Dog House Breaking,,Dog/House Breaking/Training Pads==Pet Items/Dog House Breaking,,Dog/House Breaking/Training Pads==Pet Items/Dog House Breaking
+Dog,Houses,Accessories,Pet Items,Dog Houses,,Dog/Houses/Accessories==Pet Items/Dog Houses,,Dog/Houses/Accessories==Pet Items/Dog Houses
+Dog,Houses,Dog Houses,Pet Items,Dog Houses,,Dog/Houses/Dog Houses==Pet Items/Dog Houses,,Dog/Houses/Dog Houses==Pet Items/Dog Houses
+Dog,Kennels,Kennels,Pet Items,Dog Kennels,,Dog/Kennels/Kennels==Pet Items/Dog Kennels,,Dog/Kennels/Kennels==Pet Items/Dog Kennels
+Dog,Memorials,Memorials,Pet Items,Dog Memorials,,Dog/Memorials/Memorials==Pet Items/Dog Memorials,,Dog/Memorials/Memorials==Pet Items/Dog Memorials
+Dog,Puppy Package,Puppy Package,Pet Items,Dog Puppy Package,,Dog/Puppy Package/Puppy Package==Pet Items/Dog Puppy Package,,Dog/Puppy Package/Puppy Package==Pet Items/Dog Puppy Package
+Dog,Sporting Dog,Beeper Collars,Pet Items,Dog Sporting Dog,,Dog/Sporting Dog/Beeper Collars==Pet Items/Dog Sporting Dog,,Dog/Sporting Dog/Beeper Collars==Pet Items/Dog Sporting Dog
+Dog,Sporting Dog,Bird Launchers,Pet Items,Dog Sporting Dog,,Dog/Sporting Dog/Bird Launchers==Pet Items/Dog Sporting Dog,,Dog/Sporting Dog/Bird Launchers==Pet Items/Dog Sporting Dog
+Dog,Sporting Dog,Duck Call,Pet Items,Dog Sporting Dog,,Dog/Sporting Dog/Duck Call==Pet Items/Dog Sporting Dog,,Dog/Sporting Dog/Duck Call==Pet Items/Dog Sporting Dog
+Dog,Sporting Dog,Dummies,Pet Items,Dog Sporting Dog,,Dog/Sporting Dog/Dummies==Pet Items/Dog Sporting Dog,,Dog/Sporting Dog/Dummies==Pet Items/Dog Sporting Dog
+Dog,Sporting Dog,Tracking,Pet Items,Dog Sporting Dog,,Dog/Sporting Dog/Tracking==Pet Items/Dog Sporting Dog,,Dog/Sporting Dog/Tracking==Pet Items/Dog Sporting Dog
+Dog,Sporting Dog,Training DVDs,Pet Items,Dog Sporting Dog,,Dog/Sporting Dog/Training DVDs==Pet Items/Dog Sporting Dog,,Dog/Sporting Dog/Training DVDs==Pet Items/Dog Sporting Dog
+Dog,Toys,Chew,Pet Items,Dog Toys,,Dog/Toys/Chew==Pet Items/Dog Toys,,Dog/Toys/Chew==Pet Items/Dog Toys
+Dog,Toys,Interactive,Pet Items,Dog Toys,,Dog/Toys/Interactive==Pet Items/Dog Toys,,Dog/Toys/Interactive==Pet Items/Dog Toys
+Dog,Toys,Plush,Pet Items,Dog Toys,,Dog/Toys/Plush==Pet Items/Dog Toys,,Dog/Toys/Plush==Pet Items/Dog Toys
+Dog,Toys,Toss and Retrieve,Pet Items,Dog Toys,,Dog/Toys/Toss and Retrieve==Pet Items/Dog Toys,,Dog/Toys/Toss and Retrieve==Pet Items/Dog Toys
+Dog,Training,Accessories,Pet Items,Dog Training,,Dog/Training/Accessories==Pet Items/Dog Training,,Dog/Training/Accessories==Pet Items/Dog Training
+Dog,Training,Books and DVDs,Pet Items,Dog Training,,Dog/Training/Books and DVDs==Pet Items/Dog Training,,Dog/Training/Books and DVDs==Pet Items/Dog Training
+Dog,Training,Clickers,Pet Items,Dog Training,,Dog/Training/Clickers==Pet Items/Dog Training,,Dog/Training/Clickers==Pet Items/Dog Training
+Dog,Training,Spray Remote Trainers,Pet Items,Dog Training,,Dog/Training/Spray Remote Trainers==Pet Items/Dog Training,,Dog/Training/Spray Remote Trainers==Pet Items/Dog Training
+Dog,Training,Static Remote Trainer,Pet Items,Dog Training,,Dog/Training/Static Remote Trainer==Pet Items/Dog Training,,Dog/Training/Static Remote Trainer==Pet Items/Dog Training
+Dog,Training,Static Remote Trainers,Pet Items,Dog Training,,Dog/Training/Static Remote Trainers==Pet Items/Dog Training,,Dog/Training/Static Remote Trainers==Pet Items/Dog Training
+Dog,Training,Ultrasonic Remote Trainers,Pet Items,Dog Training,,Dog/Training/Ultrasonic Remote Trainers==Pet Items/Dog Training,,Dog/Training/Ultrasonic Remote Trainers==Pet Items/Dog Training
+Dog,Training,Vibration Remote Trainers,Pet Items,Dog Training,,Dog/Training/Vibration Remote Trainers==Pet Items/Dog Training,,Dog/Training/Vibration Remote Trainers==Pet Items/Dog Training
+Dog,Travel,Carriers,Pet Items,Dog Travel,,Dog/Travel/Carriers==Pet Items/Dog Travel,,Dog/Travel/Carriers==Pet Items/Dog Travel
+Dog,Travel,Comfort,Pet Items,Dog Travel,,Dog/Travel/Comfort==Pet Items/Dog Travel,,Dog/Travel/Comfort==Pet Items/Dog Travel
+Dog,Travel,Restraints,Pet Items,Dog Travel,,Dog/Travel/Restraints==Pet Items/Dog Travel,,Dog/Travel/Restraints==Pet Items/Dog Travel
+Dog,Travel,Strollers,Pet Items,Dog Travel,,Dog/Travel/Strollers==Pet Items/Dog Travel,,Dog/Travel/Strollers==Pet Items/Dog Travel
+Dog,Travel,Vehicle Barriers,Pet Items,Dog Travel,,Dog/Travel/Vehicle Barriers==Pet Items/Dog Travel,,Dog/Travel/Vehicle Barriers==Pet Items/Dog Travel
+Dog,Treats and Bones,Bones,Pet Items,Dog Treats and Bones,,Dog/Treats and Bones/Bones==Pet Items/Dog Treats and Bones,,Dog/Treats and Bones/Bones==Pet Items/Dog Treats and Bones
+Dog,Treats and Bones,Rawhide,Pet Items,Dog Treats and Bones,,Dog/Treats and Bones/Rawhide==Pet Items/Dog Treats and Bones,,Dog/Treats and Bones/Rawhide==Pet Items/Dog Treats and Bones
+Dog,Treats and Bones,Treats,Pet Items,Dog Treats and Bones,,Dog/Treats and Bones/Treats==Pet Items/Dog Treats and Bones,,Dog/Treats and Bones/Treats==Pet Items/Dog Treats and Bones
+Dog,Waste Management,Indoor Potties,Pet Items,Dog Waste Management,,Dog/Waste Management/Indoor Potties==Pet Items/Dog Waste Management,,Dog/Waste Management/Indoor Potties==Pet Items/Dog Waste Management
+Dog,Waste Management,In-Ground Disposal,Pet Items,Dog Waste Management,,Dog/Waste Management/In-Ground Disposal==Pet Items/Dog Waste Management,,Dog/Waste Management/In-Ground Disposal==Pet Items/Dog Waste Management
+Dog,Waste Management,Poop Bags,Pet Items,Dog Waste Management,,Dog/Waste Management/Poop Bags==Pet Items/Dog Waste Management,,Dog/Waste Management/Poop Bags==Pet Items/Dog Waste Management
+Dog,Waste Management,Rakes and Scoops,Pet Items,Dog Waste Management,,Dog/Waste Management/Rakes and Scoops==Pet Items/Dog Waste Management,,Dog/Waste Management/Rakes and Scoops==Pet Items/Dog Waste Management
+Dog,Water Safety,Dog Boat Ladders,Pet Items,Dog Water Safety,,Dog/Water Safety/Dog Boat Ladders==Pet Items/Dog Water Safety,,Dog/Water Safety/Dog Boat Ladders==Pet Items/Dog Water Safety
+Dog,Water Safety,Life Jackets,Pet Items,Dog Water Safety,,Dog/Water Safety/Life Jackets==Pet Items/Dog Water Safety,,Dog/Water Safety/Life Jackets==Pet Items/Dog Water Safety
+Dog,Wellness,Bandage,Pet Items,Dog Wellness,,Dog/Wellness/Bandage==Pet Items/Dog Wellness,,Dog/Wellness/Bandage==Pet Items/Dog Wellness
+Dog,Wellness,Behavioral Aid,Pet Items,Dog Wellness,,Dog/Wellness/Behavioral Aid==Pet Items/Dog Wellness,,Dog/Wellness/Behavioral Aid==Pet Items/Dog Wellness
+Dog,Wellness,Cooling Bandanas and Jackets,Pet Items,Dog Wellness,,Dog/Wellness/Cooling Bandanas and Jackets==Pet Items/Dog Wellness,,Dog/Wellness/Cooling Bandanas and Jackets==Pet Items/Dog Wellness
+Dog,Wellness,Ear Care,Pet Items,Dog Wellness,,Dog/Wellness/Ear Care==Pet Items/Dog Wellness,,Dog/Wellness/Ear Care==Pet Items/Dog Wellness
+Dog,Wellness,Eye Care,Pet Items,Dog Wellness,,Dog/Wellness/Eye Care==Pet Items/Dog Wellness,,Dog/Wellness/Eye Care==Pet Items/Dog Wellness
+Dog,Wellness,Goggles,Pet Items,Dog Wellness,,Dog/Wellness/Goggles==Pet Items/Dog Wellness,,Dog/Wellness/Goggles==Pet Items/Dog Wellness
+Dog,Wellness,Joint Care,Pet Items,Dog Wellness,,Dog/Wellness/Joint Care==Pet Items/Dog Wellness,,Dog/Wellness/Joint Care==Pet Items/Dog Wellness
+Dog,Wellness,Shoes,Pet Items,Dog Wellness,,Dog/Wellness/Shoes==Pet Items/Dog Wellness,,Dog/Wellness/Shoes==Pet Items/Dog Wellness
+Dog,Wellness ,Daily Supplements,Pet Items,Dog Wellness,,Dog/Wellness /Daily Supplements==Pet Items/Dog Wellness,,Dog/Wellness /Daily Supplements==Pet Items/Dog Wellness
+Dog,Wellness ,Joint Care,Pet Items,Dog Wellness,,Dog/Wellness /Joint Care==Pet Items/Dog Wellness,,Dog/Wellness /Joint Care==Pet Items/Dog Wellness
+Dog,Wellness ,Pain Relief,Pet Items,Dog Wellness,,Dog/Wellness /Pain Relief==Pet Items/Dog Wellness,,Dog/Wellness /Pain Relief==Pet Items/Dog Wellness
+Fish,Pond Supplies,Pond Supplies,Pet Items,Fish Pond Supplies,,Fish/Pond Supplies/Pond Supplies==Pet Items/Fish Pond Supplies,,Fish/Pond Supplies/Pond Supplies==Pet Items/Fish Pond Supplies
+Outdoor,Hose,Heated,Pet Items,Outdoor Hose,,Outdoor/Hose/Heated==Pet Items/Outdoor Hose,,Outdoor/Hose/Heated==Pet Items/Outdoor Hose
+Small Animal,Cages,Cages,Pet Items,Small Animal Cages,,Small Animal/Cages/Cages==Pet Items/Small Animal Cages,,Small Animal/Cages/Cages==Pet Items/Small Animal Cages
+Small Pet,Beds,Heated Beds,Pet Items,Small Pet Beds,,Small Pet/Beds/Heated Beds==Pet Items/Small Pet Beds,,Small Pet/Beds/Heated Beds==Pet Items/Small Pet Beds
+Small Pet,Cages,Accessories,Pet Items,Small Pet Cages,,Small Pet/Cages/Accessories==Pet Items/Small Pet Cages,,Small Pet/Cages/Accessories==Pet Items/Small Pet Cages
+Small Pet,Cages,Cages,Pet Items,Small Pet Cages,,Small Pet/Cages/Cages==Pet Items/Small Pet Cages,,Small Pet/Cages/Cages==Pet Items/Small Pet Cages
+Small Pet,Containment,Deterrent,Pet Items,Small Pet Containment,,Small Pet/Containment/Deterrent==Pet Items/Small Pet Containment,,Small Pet/Containment/Deterrent==Pet Items/Small Pet Containment
+Small Pet,Toys,Interactive,Pet Items,Small Pet Toys,,Small Pet/Toys/Interactive==Pet Items/Small Pet Toys,,Small Pet/Toys/Interactive==Pet Items/Small Pet Toys
